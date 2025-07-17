@@ -28,6 +28,10 @@ function reset() {
     document.getElementById("tempo").textContent = "00:00";
 }
 
+function qualquerCoisa(){
+    return null
+}
+
 //Analisar dps
 
 // let current = new Date()
