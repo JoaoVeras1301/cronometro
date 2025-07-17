@@ -32,6 +32,10 @@ function qualquerCoisa(){
     return null
 }
 
+function outraCoisa(){
+    return null
+}
+
 //Analisar dps
 
 // let current = new Date()
